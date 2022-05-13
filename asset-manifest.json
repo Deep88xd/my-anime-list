@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-anime-list/static/css/main.f6b82076.css",
+    "main.js": "/my-anime-list/static/js/main.d7380c13.js",
+    "index.html": "/my-anime-list/index.html",
+    "main.f6b82076.css.map": "/my-anime-list/static/css/main.f6b82076.css.map",
+    "main.d7380c13.js.map": "/my-anime-list/static/js/main.d7380c13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b82076.css",
+    "static/js/main.d7380c13.js"
+  ]
+}
